@@ -33,6 +33,10 @@ show them in the inventory list on the left panel.
 
 r: reset/redraw the screen
 
+i: zoom in
+
+o: zoom out
+
 q: quit the program
 
 
