@@ -1,22 +1,20 @@
 RADAR_OO_V1 - Windows 10 version
 
-This was a project to display ADSB traffic captured using
+This is a project to display ADSB traffic captured using
 an inexpensive European TV tuner USB dongle.
 
 *** dump1090 must already be installed and working
 
-It relies on dump1090 being installed so it can parse dump1090 decoded packets
-and display them in a pseudo-radar display.
+It relies on dump1090 being installed so it can parse dump1090 decoded packets and display them in a pseudo-radar display.
 
-Disclaimer: This software is provided for entertainment and educational
-purposes only. The user installs it on their systems at their own risk
-and absolutely no claims are being made regarding its suitability or its likelihood
-to not do harm.
+[dump1090 is available from: https://github.com/antirez/dump1090]
+
+
+Disclaimer: This software is provided for entertainment and educational purposes only. The user installs it on their systems at their own risk and absolutely no claims are being made regarding its suitability or its likelihood to not do harm.
 
 Quick overview:
 
-The software is configured from a collection of configuration files that are largely
-self explanatory.
+The software is configured from a collection of configuration files that are largely self-explanatory.
 
 When running, a variety of key strokes can be executed:
 
@@ -42,14 +40,12 @@ q: quit the program
 
 Parameters
 
-Some of the parameters in the configuration files can be modified, but care must be
-exercised when changing the screen layout dimensions.
+Some of the parameters in the configuration files can be modified, but care must be exercised when changing the screen layout dimensions.
 
 
 Required files
 
-The application needs various configuration and data files to be in 
-the same directory - these are included with the release.
+The application needs various configuration and data files to be in the same directory - these are included with the release.
 
 
 
